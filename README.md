@@ -1,1 +1,2 @@
-# SQL-Efrem-Daniel-DE24
+# SQL course with duckdb
+
